@@ -1,0 +1,15 @@
+{
+  "name": "mongoose-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "start-dev": "nodemon --inspect app"
+  },
+  "author": "Larry Bouthillier",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
